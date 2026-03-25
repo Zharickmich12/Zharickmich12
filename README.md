@@ -36,9 +36,9 @@ Disfruto aprender constantemente y expandir mis habilidades hacia nuevas áreas 
 
 ## 📊 GitHub Stats
 
-![Zharick GitHub stats](https://github-readme-stats.vercel.app/api?username=Zharickmich12&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Zharickmich12&theme=tokyonight&hide_border=true&background=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zharickmich12&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zharickmich12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ## 🤖 Actualmente
 
@@ -47,5 +47,5 @@ Disfruto aprender constantemente y expandir mis habilidades hacia nuevas áreas 
 
 ## 📫 Conecta conmigo
 
-💼 LinkedIn: https://www.linkedin.com/in/zharick-michelle-desarrolladora/ 
-📧 Email: zharickfh12@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zharick%20Michelle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zharick-michelle-desarrolladora/)
+[![Email](https://img.shields.io/badge/Email-zharickfh12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zharickfh12@gmail.com)
