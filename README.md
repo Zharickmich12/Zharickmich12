@@ -50,7 +50,7 @@ Disfruto aprender constantemente y expandir mis habilidades hacia nuevas áreas 
 
 ## 🤖 Actualmente
 
-📌 Aprendiendo y explorando nuevas áreas como IA y análisis de datos  
+📌 Aprendiendo y explorando nuevas áreas como Web3, IA y análisis de datos  
 
 ---
 
