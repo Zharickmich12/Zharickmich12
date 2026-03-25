@@ -3,7 +3,7 @@
 ⌁ Estudiante de Ingeniería de Sistemas  
 ⌁ Tecnóloga en Análisis y Desarrollo de Software  
 
-Desarrolladora Full Stack entusiasta del sector tech, con interés en construir soluciones modernas y seguir explorando áreas como inteligencia artificial, machine learning y ciencia de datos.
+Desarrolladora Full Stack entusiasta del sector tech, con interés en construir soluciones modernas y seguir explorando áreas como inteligencia artificial, machine learning, web3 y ciencia de datos.
 
 ## 🔭 Sobre mí
 
@@ -42,8 +42,8 @@ Disfruto aprender constantemente y expandir mis habilidades hacia nuevas áreas 
 
 ## 🤖 Actualmente
 
-Fortaleciendo mis habilidades en desarrollo Full Stack.
-Explorando nuevas áreas como Web3, IA y análisis de datos.
+- Fortaleciendo mis habilidades en desarrollo Full Stack.
+- Explorando nuevas áreas como Web3, IA y análisis de datos.
 
 ## 📫 Conecta conmigo
 
