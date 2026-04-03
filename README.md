@@ -36,9 +36,7 @@ Disfruto aprender constantemente y expandir mis habilidades hacia nuevas áreas 
 
 ## 📊 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=Zharickmich12&theme=tokyonight&hide_border=true&background=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zharickmich12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zharickmich12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff69b4&icon_color=ff69b4&text_color=f8f8f8&count_private=true&include_all_commits=true)
 
 ## 🤖 Actualmente
 
