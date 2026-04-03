@@ -34,10 +34,6 @@ Disfruto aprender constantemente y expandir mis habilidades hacia nuevas áreas 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zharickmich12&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=f8f8f8&bg_color=0d1117&count_private=true&include_all_commits=true)
-
 ## 🤖 Actualmente
 
 - Fortaleciendo mis habilidades en desarrollo Full Stack.
