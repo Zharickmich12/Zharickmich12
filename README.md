@@ -36,7 +36,7 @@ Disfruto aprender constantemente y expandir mis habilidades hacia nuevas áreas 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zharickmich12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff69b4&icon_color=ff69b4&text_color=f8f8f8&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zharickmich12&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=f8f8f8&bg_color=0d1117&count_private=true&include_all_commits=true)
 
 ## 🤖 Actualmente
 
