@@ -23,7 +23,7 @@ Explorando IA, Machine Learning, Web3 y Ciencia de Datos.
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,python,spring,rust&theme=dark&perline=8)](https://skillicons.dev)
  
 ### Base de datos & DevOps
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,git,bash&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,git,bash&theme=dark&perline=8)](https://skillicons.dev)
  
 ### Testing & Herramientas
 [![My Skills](https://skillicons.dev/icons?i=jest,postman&theme=dark&perline=8)](https://skillicons.dev)
@@ -34,9 +34,7 @@ Explorando IA, Machine Learning, Web3 y Ciencia de Datos.
  
 <div align="center">
  
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ZharickM&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&hide=contribs" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZharickM&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zharickmich12&theme=github-compact&hide_border=true&area=true" />
  
 </div>
  
