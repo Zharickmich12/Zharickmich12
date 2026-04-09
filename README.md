@@ -1,45 +1,48 @@
-# 👋 Hola, soy Zharick
+<div align="center">
 
-⌁ Estudiante de Ingeniería de Sistemas  
-⌁ Tecnóloga en Análisis y Desarrollo de Software  
+# Zharick Michelle
+ 
+**Desarrolladora Full Stack · Estudiante de Ingeniería de Sistemas · Tecnóloga en Análisis y Desarrollo de Software**
 
-Desarrolladora Full Stack entusiasta del sector tech, con interés en construir soluciones modernas y seguir explorando áreas como inteligencia artificial, machine learning, web3 y ciencia de datos.
+Construyo aplicaciones web escalables combinando frontend y backend.<br>
+Explorando IA, Machine Learning, Web3 y Ciencia de Datos.
 
-## 🔭 Sobre mí
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zharick-michelle-desarrolladora/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zharickfh12@gmail.com)
+ 
+</div>
 
-Me enfoco en el desarrollo de aplicaciones web escalables, combinando frontend y backend para crear soluciones funcionales y bien estructuradas.
-
-Disfruto aprender constantemente y expandir mis habilidades hacia nuevas áreas tecnológicas, especialmente aquellas relacionadas con el análisis de datos y la automatización de procesos.
-
-## 📈 Tecnologías y herramientas
-
+---
+ 
+## Stack
+ 
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&theme=dark&perline=8)](https://skillicons.dev)
+ 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,python,spring,rust&theme=dark&perline=8)](https://skillicons.dev)
+ 
+### Base de datos & DevOps
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,git,bash&theme=dark&perline=8)](https://skillicons.dev)
+ 
+### Testing & Herramientas
+[![My Skills](https://skillicons.dev/icons?i=jest,postman&theme=dark&perline=8)](https://skillicons.dev)
+ 
+---
 
-### Base de datos
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge)
-
-### Tools & Otros
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🤖 Actualmente
-
-- Fortaleciendo mis habilidades en desarrollo Full Stack.
-- Explorando nuevas áreas como Web3, IA y análisis de datos.
-
-## 📫 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zharick%20Michelle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zharick-michelle-desarrolladora/)
-[![Email](https://img.shields.io/badge/Email-zharickfh12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zharickfh12@gmail.com)
+## Stats
+ 
+<div align="center">
+ 
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ZharickM&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&hide=contribs" />
+&nbsp;&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZharickM&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+ 
+</div>
+ 
+---
+ 
+## Actualmente
+ 
+- Fortaleciendo habilidades en desarrollo Full Stack
+- Explorando Web3, IA y análisis de datos
