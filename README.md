@@ -11,8 +11,6 @@ Explorando IA, Machine Learning, Web3 y Ciencia de Datos.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zharickfh12@gmail.com)
  
 </div>
-
----
  
 ## Stack
  
@@ -27,18 +25,14 @@ Explorando IA, Machine Learning, Web3 y Ciencia de Datos.
  
 ### Testing & Herramientas
 [![My Skills](https://skillicons.dev/icons?i=jest,postman&theme=dark&perline=8)](https://skillicons.dev)
- 
----
 
 ## Stats
  
 <div align="center">
  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zharickmich12&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Zharickmich12&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
  
 </div>
- 
----
  
 ## Actualmente
  
