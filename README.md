@@ -25,14 +25,6 @@ Explorando IA, Machine Learning, Web3 y Ciencia de Datos.
  
 ### Testing & Herramientas
 [![My Skills](https://skillicons.dev/icons?i=jest,postman&theme=dark&perline=8)](https://skillicons.dev)
-
-## Stats
- 
-<div align="center">
- 
-<img src="https://github-profile-trophy.vercel.app/?username=Zharickmich12&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
- 
-</div>
  
 ## Actualmente
  
